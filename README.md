@@ -1,6 +1,6 @@
-Flags Football World Cup 2010
+Flags Soccer World Cup 2010
 =============================
-All flags of the football world cup 2010 in 32 x 32 pixels.
+All flags of the soccer world cup 2010 in 32 x 32 pixels.
 
 About
 -----
